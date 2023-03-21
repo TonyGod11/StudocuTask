@@ -1,0 +1,14 @@
+{
+  "name": "qa-engineer-assignment",
+  "version": "1.0.0",
+  "description": "Welcome to the QA Engineer Technical Assignment. We expect the work to take a few hours, and we thank\r you in advance for taking that time for us!",
+  "main": "bundle.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.31.2",
+    "allure-playwright": "^2.1.0"
+  }
+}
