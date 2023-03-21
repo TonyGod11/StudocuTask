@@ -45,6 +45,8 @@ The most important file is the `playwright.config.ts` where you can -
  ```bash 
  npm init playwright@latest
  ```
+ The system will message you `playwright.config.ts` already exists. 
+ Don't override it 
  
 3. Install Allure by command -
  ```bash 
